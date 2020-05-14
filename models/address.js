@@ -1,8 +1,7 @@
 const mongoose = require('mongoose');
-const schema = mongoose.Schema();
 
 //Delivery Address Details
-const addressSchema = new schema({
+const addressSchema = new mongoose.Schema({
     firstName: {
         type: String,
         required: true,
@@ -50,4 +49,4 @@ const addressSchema = new schema({
 
 });
 
-module.exports = mongoose.schema('Address', addressSchema);
+module.exports = mongoose.model('Address', addressSchema);

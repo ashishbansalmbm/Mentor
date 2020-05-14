@@ -1,9 +1,8 @@
 const mongoose = require('mongoose');
-const schema = mongoose.Schema();
 
 
 //User Details Used For Registration
-const userSchema = new schema({
+const userSchema = new mongoose.Schema({
     firstName: {
         type: String,
         required: true,
@@ -25,7 +24,6 @@ const userSchema = new schema({
     phone: {
         type: String,
         required: true,
-        unique: true
     },
     password: {
         type: String,
@@ -44,4 +42,4 @@ const userSchema = new schema({
 
 });
 
-module.exports = mongoose.schema(User, userSchema);
+module.exports = mongoose.model('User', userSchema);
