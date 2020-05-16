@@ -10,12 +10,13 @@ module.exports = {
             //Checking For New User
             let phone = await User.findOne({ phone: userDataObj.phone }).exec();
             //console.log(userDataObj);
-            
+
             let salt = await bcrypt.genSalt(10);
+            let user;
 
             if (!phone) {
                 let hash = await bcrypt.hash(userDataObj.password, salt);
-                var user = new User({
+                user = new User({
                     firstName: userDataObj.firstName,
                     lastName: userDataObj.lastName,
                     password: hash,

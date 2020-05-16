@@ -1,3 +1,5 @@
 2020-05-16T12:15:36.977Z [31m[1merror[22m[39m: 	Error in login User Controller ReferenceError: token is not defined
 2020-05-16T12:15:58.440Z [31m[1merror[22m[39m: 	Error in login User Controller ReferenceError: token is not defined
 2020-05-16T12:16:03.845Z [31m[1merror[22m[39m: 	Error in login User Controller ReferenceError: token is not defined
+2020-05-16T19:01:47.183Z [31m[1merror[22m[39m: 	Error in login user services Error: Illegal arguments: undefined, string
+2020-05-16T19:11:44.089Z : 	Error in login user services Error: Illegal arguments: undefined, string
