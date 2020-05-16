@@ -1,0 +1,685 @@
+2020-05-16T12:26:46.466Z [31m[1merror[22m[39m: 	uncaughtException: Route.get() requires a callback function but got a [object Object]
+Error: Route.get() requires a callback function but got a [object Object]
+    at Route.<computed> [as get] (C:\Users\91978\Desktop\Mentor\node_modules\express\lib\router\route.js:202:15)
+    at Function.app.<computed> [as get] (C:\Users\91978\Desktop\Mentor\node_modules\express\lib\application.js:482:19)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\app.js:22:5)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47 undefined
+2020-05-16T12:27:06.183Z [31m[1merror[22m[39m: 	uncaughtException: Route.get() requires a callback function but got a [object Object]
+Error: Route.get() requires a callback function but got a [object Object]
+    at Route.<computed> [as get] (C:\Users\91978\Desktop\Mentor\node_modules\express\lib\router\route.js:202:15)
+    at Function.app.<computed> [as get] (C:\Users\91978\Desktop\Mentor\node_modules\express\lib\application.js:482:19)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\app.js:22:5)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47 undefined
+2020-05-16T12:29:11.519Z [31m[1merror[22m[39m: 	uncaughtException: Route.get() requires a callback function but got a [object Object]
+Error: Route.get() requires a callback function but got a [object Object]
+    at Route.<computed> [as get] (C:\Users\91978\Desktop\Mentor\node_modules\express\lib\router\route.js:202:15)
+    at Function.app.<computed> [as get] (C:\Users\91978\Desktop\Mentor\node_modules\express\lib\application.js:482:19)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\app.js:22:5)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47 undefined
+2020-05-16T12:31:03.881Z [31m[1merror[22m[39m: 	uncaughtException: Route.get() requires a callback function but got a [object Object]
+Error: Route.get() requires a callback function but got a [object Object]
+    at Route.<computed> [as get] (C:\Users\91978\Desktop\Mentor\node_modules\express\lib\router\route.js:202:15)
+    at Function.app.<computed> [as get] (C:\Users\91978\Desktop\Mentor\node_modules\express\lib\application.js:482:19)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\app.js:23:5)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47 undefined
+2020-05-16T12:31:10.388Z [31m[1merror[22m[39m: 	uncaughtException: Route.get() requires a callback function but got a [object Object]
+Error: Route.get() requires a callback function but got a [object Object]
+    at Route.<computed> [as get] (C:\Users\91978\Desktop\Mentor\node_modules\express\lib\router\route.js:202:15)
+    at Function.app.<computed> [as get] (C:\Users\91978\Desktop\Mentor\node_modules\express\lib\application.js:482:19)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\app.js:24:5)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47 undefined
+2020-05-16T12:33:38.689Z [31m[1merror[22m[39m: 	uncaughtException: Cannot find module './authentication/verifyJwtToken'
+Require stack:
+- C:\Users\91978\Desktop\Mentor\routes\user.js
+- C:\Users\91978\Desktop\Mentor\app.js
+Error: Cannot find module './authentication/verifyJwtToken'
+Require stack:
+- C:\Users\91978\Desktop\Mentor\routes\user.js
+- C:\Users\91978\Desktop\Mentor\app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:957:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:840:27)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\routes\user.js:4:16)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\app.js:11:20)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14) undefined
+2020-05-16T12:33:46.935Z [31m[1merror[22m[39m: 	uncaughtException: Cannot find module './authentication/verifyJwtToken'
+Require stack:
+- C:\Users\91978\Desktop\Mentor\routes\user.js
+- C:\Users\91978\Desktop\Mentor\app.js
+Error: Cannot find module './authentication/verifyJwtToken'
+Require stack:
+- C:\Users\91978\Desktop\Mentor\routes\user.js
+- C:\Users\91978\Desktop\Mentor\app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:957:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:840:27)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\routes\user.js:4:16)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\app.js:10:20)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14) undefined
+2020-05-16T12:33:53.510Z [31m[1merror[22m[39m: 	uncaughtException: Cannot find module './authentication/verifyJwtToken'
+Require stack:
+- C:\Users\91978\Desktop\Mentor\routes\user.js
+- C:\Users\91978\Desktop\Mentor\app.js
+Error: Cannot find module './authentication/verifyJwtToken'
+Require stack:
+- C:\Users\91978\Desktop\Mentor\routes\user.js
+- C:\Users\91978\Desktop\Mentor\app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:957:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:840:27)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\routes\user.js:4:16)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\app.js:10:20)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14) undefined
+2020-05-16T12:34:00.341Z [31m[1merror[22m[39m: 	uncaughtException: Cannot find module './authentication/verifyJwtToken'
+Require stack:
+- C:\Users\91978\Desktop\Mentor\routes\user.js
+- C:\Users\91978\Desktop\Mentor\app.js
+Error: Cannot find module './authentication/verifyJwtToken'
+Require stack:
+- C:\Users\91978\Desktop\Mentor\routes\user.js
+- C:\Users\91978\Desktop\Mentor\app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:957:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:840:27)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\routes\user.js:4:16)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\app.js:10:20)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14) undefined
+2020-05-16T12:34:26.313Z [31m[1merror[22m[39m: 	uncaughtException: Cannot find module './authentication/verifyJwtToken'
+Require stack:
+- C:\Users\91978\Desktop\Mentor\routes\user.js
+- C:\Users\91978\Desktop\Mentor\app.js
+Error: Cannot find module './authentication/verifyJwtToken'
+Require stack:
+- C:\Users\91978\Desktop\Mentor\routes\user.js
+- C:\Users\91978\Desktop\Mentor\app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:957:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:840:27)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\routes\user.js:4:16)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\app.js:10:20)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14) undefined
+2020-05-16T12:35:12.755Z [31m[1merror[22m[39m: 	uncaughtException: Cannot find module './authentication/verifyJwtToken'
+Require stack:
+- C:\Users\91978\Desktop\Mentor\routes\user.js
+- C:\Users\91978\Desktop\Mentor\app.js
+Error: Cannot find module './authentication/verifyJwtToken'
+Require stack:
+- C:\Users\91978\Desktop\Mentor\routes\user.js
+- C:\Users\91978\Desktop\Mentor\app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:957:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:840:27)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\routes\user.js:4:16)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\app.js:10:20)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14) undefined
+2020-05-16T12:35:51.810Z [31m[1merror[22m[39m: 	uncaughtException: Cannot find module './authentication/verifyJwtToken'
+Require stack:
+- C:\Users\91978\Desktop\Mentor\routes\user.js
+- C:\Users\91978\Desktop\Mentor\app.js
+Error: Cannot find module './authentication/verifyJwtToken'
+Require stack:
+- C:\Users\91978\Desktop\Mentor\routes\user.js
+- C:\Users\91978\Desktop\Mentor\app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:957:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:840:27)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\routes\user.js:4:16)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\app.js:10:20)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14) undefined
+2020-05-16T12:36:57.246Z [31m[1merror[22m[39m: 	uncaughtException: Cannot find module './authentication/verifyJwtToken'
+Require stack:
+- C:\Users\91978\Desktop\Mentor\routes\user.js
+- C:\Users\91978\Desktop\Mentor\app.js
+Error: Cannot find module './authentication/verifyJwtToken'
+Require stack:
+- C:\Users\91978\Desktop\Mentor\routes\user.js
+- C:\Users\91978\Desktop\Mentor\app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:957:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:840:27)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\routes\user.js:4:16)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\app.js:10:20)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14) undefined
+2020-05-16T12:37:04.638Z [31m[1merror[22m[39m: 	uncaughtException: Cannot find module './authentication/verifyJwtToken'
+Require stack:
+- C:\Users\91978\Desktop\Mentor\routes\user.js
+- C:\Users\91978\Desktop\Mentor\app.js
+Error: Cannot find module './authentication/verifyJwtToken'
+Require stack:
+- C:\Users\91978\Desktop\Mentor\routes\user.js
+- C:\Users\91978\Desktop\Mentor\app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:957:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:840:27)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\routes\user.js:4:16)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\app.js:10:20)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14) undefined
+2020-05-16T12:37:09.266Z [31m[1merror[22m[39m: 	uncaughtException: Cannot find module './authentication/verifyJwtToken'
+Require stack:
+- C:\Users\91978\Desktop\Mentor\routes\user.js
+- C:\Users\91978\Desktop\Mentor\app.js
+Error: Cannot find module './authentication/verifyJwtToken'
+Require stack:
+- C:\Users\91978\Desktop\Mentor\routes\user.js
+- C:\Users\91978\Desktop\Mentor\app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:957:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:840:27)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\routes\user.js:4:16)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\app.js:10:20)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14) undefined
+2020-05-16T12:37:30.638Z [31m[1merror[22m[39m: 	uncaughtException: Cannot find module './authentication/verifyJwtToken'
+Require stack:
+- C:\Users\91978\Desktop\Mentor\routes\user.js
+- C:\Users\91978\Desktop\Mentor\app.js
+Error: Cannot find module './authentication/verifyJwtToken'
+Require stack:
+- C:\Users\91978\Desktop\Mentor\routes\user.js
+- C:\Users\91978\Desktop\Mentor\app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:957:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:840:27)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\routes\user.js:4:16)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\app.js:10:20)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14) undefined
+2020-05-16T12:37:50.327Z [31m[1merror[22m[39m: 	uncaughtException: Cannot find module './authentication/verifyJwtToken'
+Require stack:
+- C:\Users\91978\Desktop\Mentor\routes\user.js
+- C:\Users\91978\Desktop\Mentor\app.js
+Error: Cannot find module './authentication/verifyJwtToken'
+Require stack:
+- C:\Users\91978\Desktop\Mentor\routes\user.js
+- C:\Users\91978\Desktop\Mentor\app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:957:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:840:27)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\routes\user.js:4:18)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\app.js:10:20)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14) undefined
+2020-05-16T12:38:12.710Z [31m[1merror[22m[39m: 	uncaughtException: Cannot find module './authentication/verifyJwtToken'
+Require stack:
+- C:\Users\91978\Desktop\Mentor\routes\user.js
+- C:\Users\91978\Desktop\Mentor\app.js
+Error: Cannot find module './authentication/verifyJwtToken'
+Require stack:
+- C:\Users\91978\Desktop\Mentor\routes\user.js
+- C:\Users\91978\Desktop\Mentor\app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:957:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:840:27)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\routes\user.js:4:18)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\app.js:10:20)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14) undefined
+2020-05-16T12:39:21.266Z [31m[1merror[22m[39m: 	uncaughtException: Route.get() requires a callback function but got a [object Object]
+Error: Route.get() requires a callback function but got a [object Object]
+    at Route.<computed> [as get] (C:\Users\91978\Desktop\Mentor\node_modules\express\lib\router\route.js:202:15)
+    at Function.proto.<computed> [as get] (C:\Users\91978\Desktop\Mentor\node_modules\express\lib\router\index.js:510:19)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\routes\user.js:7:8)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\app.js:10:20)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47 undefined
+2020-05-16T12:39:26.234Z [31m[1merror[22m[39m: 	uncaughtException: Route.get() requires a callback function but got a [object Object]
+Error: Route.get() requires a callback function but got a [object Object]
+    at Route.<computed> [as get] (C:\Users\91978\Desktop\Mentor\node_modules\express\lib\router\route.js:202:15)
+    at Function.proto.<computed> [as get] (C:\Users\91978\Desktop\Mentor\node_modules\express\lib\router\index.js:510:19)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\routes\user.js:7:8)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\app.js:10:20)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47 undefined
+2020-05-16T12:40:32.396Z [31m[1merror[22m[39m: 	uncaughtException: Route.get() requires a callback function but got a [object Object]
+Error: Route.get() requires a callback function but got a [object Object]
+    at Route.<computed> [as get] (C:\Users\91978\Desktop\Mentor\node_modules\express\lib\router\route.js:202:15)
+    at Function.proto.<computed> [as get] (C:\Users\91978\Desktop\Mentor\node_modules\express\lib\router\index.js:510:19)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\routes\user.js:7:8)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\app.js:10:20)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47 undefined
+2020-05-16T12:40:43.567Z [31m[1merror[22m[39m: 	uncaughtException: Route.get() requires a callback function but got a [object Object]
+Error: Route.get() requires a callback function but got a [object Object]
+    at Route.<computed> [as get] (C:\Users\91978\Desktop\Mentor\node_modules\express\lib\router\route.js:202:15)
+    at Function.proto.<computed> [as get] (C:\Users\91978\Desktop\Mentor\node_modules\express\lib\router\index.js:510:19)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\routes\user.js:7:8)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\app.js:10:20)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47 undefined
+2020-05-16T12:41:52.013Z [31m[1merror[22m[39m: 	uncaughtException: Route.get() requires a callback function but got a [object Object]
+Error: Route.get() requires a callback function but got a [object Object]
+    at Route.<computed> [as get] (C:\Users\91978\Desktop\Mentor\node_modules\express\lib\router\route.js:202:15)
+    at Function.proto.<computed> [as get] (C:\Users\91978\Desktop\Mentor\node_modules\express\lib\router\index.js:510:19)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\routes\user.js:7:8)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\app.js:10:20)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47 undefined
+2020-05-16T12:43:45.497Z [31m[1merror[22m[39m: 	uncaughtException: Route.get() requires a callback function but got a [object Object]
+Error: Route.get() requires a callback function but got a [object Object]
+    at Route.<computed> [as get] (C:\Users\91978\Desktop\Mentor\node_modules\express\lib\router\route.js:202:15)
+    at Function.proto.<computed> [as get] (C:\Users\91978\Desktop\Mentor\node_modules\express\lib\router\index.js:510:19)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\routes\user.js:7:8)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\app.js:10:20)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47 undefined
+2020-05-16T12:44:24.871Z [31m[1merror[22m[39m: 	uncaughtException: Route.get() requires a callback function but got a [object Object]
+Error: Route.get() requires a callback function but got a [object Object]
+    at Route.<computed> [as get] (C:\Users\91978\Desktop\Mentor\node_modules\express\lib\router\route.js:202:15)
+    at Function.proto.<computed> [as get] (C:\Users\91978\Desktop\Mentor\node_modules\express\lib\router\index.js:510:19)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\routes\user.js:7:8)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\app.js:10:20)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47 undefined
+2020-05-16T12:45:14.944Z [31m[1merror[22m[39m: 	uncaughtException: Unexpected token ';'
+C:\Users\91978\Desktop\Mentor\authentication\verifyJwtToken.js:17
+    };
+     ^
+
+SyntaxError: Unexpected token ';'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\routes\user.js:4:16)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\app.js:10:20)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30) undefined
+2020-05-16T12:45:28.638Z [31m[1merror[22m[39m: 	uncaughtException: Route.get() requires a callback function but got a [object Object]
+Error: Route.get() requires a callback function but got a [object Object]
+    at Route.<computed> [as get] (C:\Users\91978\Desktop\Mentor\node_modules\express\lib\router\route.js:202:15)
+    at Function.proto.<computed> [as get] (C:\Users\91978\Desktop\Mentor\node_modules\express\lib\router\index.js:510:19)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\routes\user.js:7:8)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\app.js:10:20)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47 undefined
+2020-05-16T12:45:42.736Z [31m[1merror[22m[39m: 	uncaughtException: Route.get() requires a callback function but got a [object Object]
+Error: Route.get() requires a callback function but got a [object Object]
+    at Route.<computed> [as get] (C:\Users\91978\Desktop\Mentor\node_modules\express\lib\router\route.js:202:15)
+    at Function.proto.<computed> [as get] (C:\Users\91978\Desktop\Mentor\node_modules\express\lib\router\index.js:510:19)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\routes\user.js:7:8)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\app.js:10:20)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47 undefined
+2020-05-16T12:45:47.076Z [31m[1merror[22m[39m: 	uncaughtException: Route.get() requires a callback function but got a [object Object]
+Error: Route.get() requires a callback function but got a [object Object]
+    at Route.<computed> [as get] (C:\Users\91978\Desktop\Mentor\node_modules\express\lib\router\route.js:202:15)
+    at Function.proto.<computed> [as get] (C:\Users\91978\Desktop\Mentor\node_modules\express\lib\router\index.js:510:19)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\routes\user.js:7:8)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\app.js:10:20)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47 undefined
+2020-05-16T12:46:38.428Z [31m[1merror[22m[39m: 	uncaughtException: Route.get() requires a callback function but got a [object Object]
+Error: Route.get() requires a callback function but got a [object Object]
+    at Route.<computed> [as get] (C:\Users\91978\Desktop\Mentor\node_modules\express\lib\router\route.js:202:15)
+    at Function.proto.<computed> [as get] (C:\Users\91978\Desktop\Mentor\node_modules\express\lib\router\index.js:510:19)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\routes\user.js:7:8)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\app.js:10:20)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47 undefined
+2020-05-16T12:47:03.236Z [31m[1merror[22m[39m: 	uncaughtException: Route.get() requires a callback function but got a [object Object]
+Error: Route.get() requires a callback function but got a [object Object]
+    at Route.<computed> [as get] (C:\Users\91978\Desktop\Mentor\node_modules\express\lib\router\route.js:202:15)
+    at Function.proto.<computed> [as get] (C:\Users\91978\Desktop\Mentor\node_modules\express\lib\router\index.js:510:19)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\routes\user.js:7:8)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\app.js:10:20)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47 undefined
+2020-05-16T12:47:17.593Z [31m[1merror[22m[39m: 	uncaughtException: Route.get() requires a callback function but got a [object Object]
+Error: Route.get() requires a callback function but got a [object Object]
+    at Route.<computed> [as get] (C:\Users\91978\Desktop\Mentor\node_modules\express\lib\router\route.js:202:15)
+    at Function.proto.<computed> [as get] (C:\Users\91978\Desktop\Mentor\node_modules\express\lib\router\index.js:510:19)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\routes\user.js:7:8)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\app.js:10:20)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47 undefined
+2020-05-16T12:47:23.754Z [31m[1merror[22m[39m: 	uncaughtException: Unexpected token '('
+C:\Users\91978\Desktop\Mentor\authentication\verifyJwtToken.js:6
+    (req, res, next) {
+    ^
+
+SyntaxError: Unexpected token '('
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\routes\user.js:4:16)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\app.js:10:20)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30) undefined
+2020-05-16T12:47:47.757Z [31m[1merror[22m[39m: 	uncaughtException: Route.get() requires a callback function but got a [object Object]
+Error: Route.get() requires a callback function but got a [object Object]
+    at Route.<computed> [as get] (C:\Users\91978\Desktop\Mentor\node_modules\express\lib\router\route.js:202:15)
+    at Function.proto.<computed> [as get] (C:\Users\91978\Desktop\Mentor\node_modules\express\lib\router\index.js:510:19)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\routes\user.js:7:8)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\app.js:10:20)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47 undefined
+2020-05-16T12:48:17.776Z [31m[1merror[22m[39m: 	uncaughtException: Unexpected token '{'
+C:\Users\91978\Desktop\Mentor\authentication\verifyJwtToken.js:6
+    function: auth (req, res, next) {
+                                    ^
+
+SyntaxError: Unexpected token '{'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\routes\user.js:4:16)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\app.js:10:20)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30) undefined
