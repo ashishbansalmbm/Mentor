@@ -1,4 +1,6 @@
 const User = require('../models/user');
+const Retailer = require('../models/retailer');
+const Store = require('../models/store');
 const bcrypt = require('bcryptjs');
 const httpStatus = require('http-status-codes');
 const logger = require('../logging/logger');
@@ -42,6 +44,50 @@ module.exports = {
         }
         catch (err) {
             logger.error("Error in create user services", { meta: err });
+            result = { httpStatus: httpStatus.BAD_REQUEST, status: "failed", errorDetails: err };
+            return result;
+
+        }
+
+    },
+    async createRetailer(DataObj) {
+        let result = {};
+        try {
+             
+                
+            //Add store Id to Retailer's user ID
+
+
+            //Return Proper Response
+            return result = user ? { httpStatus: httpStatus.OK, status: "successful", responseData: user._id } : { httpStatus: httpStatus.BAD_REQUEST, status: "failed", errorDetails: httpStatus.getStatusText(httpStatus.BAD_REQUEST) };
+
+
+        }
+        catch (err) {
+            logger.error("Error in create retailer services", { meta: err });
+            result = { httpStatus: httpStatus.BAD_REQUEST, status: "failed", errorDetails: err };
+            return result;
+
+        }
+
+    },
+
+    async createRetailerStore(DataObj) {
+        let result = {};
+        try {
+             
+                
+            //Create Store and make entry in Retailer-Store Table
+
+
+
+            //Return Proper Response
+            return result = user ? { httpStatus: httpStatus.OK, status: "successful", responseData: user._id } : { httpStatus: httpStatus.BAD_REQUEST, status: "failed", errorDetails: httpStatus.getStatusText(httpStatus.BAD_REQUEST) };
+
+
+        }
+        catch (err) {
+            logger.error("Error in create retailer services", { meta: err });
             result = { httpStatus: httpStatus.BAD_REQUEST, status: "failed", errorDetails: err };
             return result;
 

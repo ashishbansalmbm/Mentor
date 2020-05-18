@@ -683,3 +683,360 @@ SyntaxError: Unexpected token '{'
     at require (internal/modules/cjs/helpers.js:77:18)
     at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\app.js:10:20)
     at Module._compile (internal/modules/cjs/loader.js:1133:30) undefined
+2020-05-16T20:06:43.742Z : 	uncaughtException: Invalid schema configuration: `URL` is not a valid type at path `storePhoto`. See http://bit.ly/mongoose-schematypes for a list of valid schema types.
+TypeError: Invalid schema configuration: `URL` is not a valid type at path `storePhoto`. See http://bit.ly/mongoose-schematypes for a list of valid schema types.
+    at Schema.interpretAsType (C:\Users\91978\Desktop\Mentor\node_modules\mongoose\lib\schema.js:987:11)
+    at Schema.path (C:\Users\91978\Desktop\Mentor\node_modules\mongoose\lib\schema.js:679:27)
+    at Schema.add (C:\Users\91978\Desktop\Mentor\node_modules\mongoose\lib\schema.js:519:14)
+    at new Schema (C:\Users\91978\Desktop\Mentor\node_modules\mongoose\lib\schema.js:130:10)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\models\store.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\routes\user.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14) undefined
+2020-05-16T20:06:53.720Z : 	uncaughtException: Invalid schema configuration: `URL` is not a valid type at path `storePhoto`. See http://bit.ly/mongoose-schematypes for a list of valid schema types.
+TypeError: Invalid schema configuration: `URL` is not a valid type at path `storePhoto`. See http://bit.ly/mongoose-schematypes for a list of valid schema types.
+    at Schema.interpretAsType (C:\Users\91978\Desktop\Mentor\node_modules\mongoose\lib\schema.js:987:11)
+    at Schema.path (C:\Users\91978\Desktop\Mentor\node_modules\mongoose\lib\schema.js:679:27)
+    at Schema.add (C:\Users\91978\Desktop\Mentor\node_modules\mongoose\lib\schema.js:519:14)
+    at new Schema (C:\Users\91978\Desktop\Mentor\node_modules\mongoose\lib\schema.js:130:10)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\models\store.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\routes\user.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14) undefined
+2020-05-16T20:06:59.635Z : 	uncaughtException: Invalid schema configuration: `URL` is not a valid type at path `storePhoto`. See http://bit.ly/mongoose-schematypes for a list of valid schema types.
+TypeError: Invalid schema configuration: `URL` is not a valid type at path `storePhoto`. See http://bit.ly/mongoose-schematypes for a list of valid schema types.
+    at Schema.interpretAsType (C:\Users\91978\Desktop\Mentor\node_modules\mongoose\lib\schema.js:987:11)
+    at Schema.path (C:\Users\91978\Desktop\Mentor\node_modules\mongoose\lib\schema.js:679:27)
+    at Schema.add (C:\Users\91978\Desktop\Mentor\node_modules\mongoose\lib\schema.js:519:14)
+    at new Schema (C:\Users\91978\Desktop\Mentor\node_modules\mongoose\lib\schema.js:130:10)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\models\store.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\routes\user.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14) undefined
+2020-05-16T20:07:21.130Z : 	uncaughtException: Invalid schema configuration: `URL` is not a valid type at path `storePhoto`. See http://bit.ly/mongoose-schematypes for a list of valid schema types.
+TypeError: Invalid schema configuration: `URL` is not a valid type at path `storePhoto`. See http://bit.ly/mongoose-schematypes for a list of valid schema types.
+    at Schema.interpretAsType (C:\Users\91978\Desktop\Mentor\node_modules\mongoose\lib\schema.js:987:11)
+    at Schema.path (C:\Users\91978\Desktop\Mentor\node_modules\mongoose\lib\schema.js:679:27)
+    at Schema.add (C:\Users\91978\Desktop\Mentor\node_modules\mongoose\lib\schema.js:519:14)
+    at new Schema (C:\Users\91978\Desktop\Mentor\node_modules\mongoose\lib\schema.js:130:10)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\models\store.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\routes\user.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14) undefined
+2020-05-16T20:07:26.766Z : 	uncaughtException: Invalid schema configuration: `URL` is not a valid type at path `storePhoto`. See http://bit.ly/mongoose-schematypes for a list of valid schema types.
+TypeError: Invalid schema configuration: `URL` is not a valid type at path `storePhoto`. See http://bit.ly/mongoose-schematypes for a list of valid schema types.
+    at Schema.interpretAsType (C:\Users\91978\Desktop\Mentor\node_modules\mongoose\lib\schema.js:987:11)
+    at Schema.path (C:\Users\91978\Desktop\Mentor\node_modules\mongoose\lib\schema.js:679:27)
+    at Schema.add (C:\Users\91978\Desktop\Mentor\node_modules\mongoose\lib\schema.js:519:14)
+    at new Schema (C:\Users\91978\Desktop\Mentor\node_modules\mongoose\lib\schema.js:130:10)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\models\store.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\routes\user.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14) undefined
+2020-05-16T20:07:33.696Z : 	uncaughtException: Invalid schema configuration: `URL` is not a valid type at path `storePhoto`. See http://bit.ly/mongoose-schematypes for a list of valid schema types.
+TypeError: Invalid schema configuration: `URL` is not a valid type at path `storePhoto`. See http://bit.ly/mongoose-schematypes for a list of valid schema types.
+    at Schema.interpretAsType (C:\Users\91978\Desktop\Mentor\node_modules\mongoose\lib\schema.js:987:11)
+    at Schema.path (C:\Users\91978\Desktop\Mentor\node_modules\mongoose\lib\schema.js:679:27)
+    at Schema.add (C:\Users\91978\Desktop\Mentor\node_modules\mongoose\lib\schema.js:519:14)
+    at new Schema (C:\Users\91978\Desktop\Mentor\node_modules\mongoose\lib\schema.js:130:10)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\models\store.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\routes\user.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14) undefined
+2020-05-16T20:08:15.921Z : 	uncaughtException: Invalid schema configuration: `URL` is not a valid type at path `storePhoto`. See http://bit.ly/mongoose-schematypes for a list of valid schema types.
+TypeError: Invalid schema configuration: `URL` is not a valid type at path `storePhoto`. See http://bit.ly/mongoose-schematypes for a list of valid schema types.
+    at Schema.interpretAsType (C:\Users\91978\Desktop\Mentor\node_modules\mongoose\lib\schema.js:987:11)
+    at Schema.path (C:\Users\91978\Desktop\Mentor\node_modules\mongoose\lib\schema.js:679:27)
+    at Schema.add (C:\Users\91978\Desktop\Mentor\node_modules\mongoose\lib\schema.js:519:14)
+    at new Schema (C:\Users\91978\Desktop\Mentor\node_modules\mongoose\lib\schema.js:130:10)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\models\store.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\routes\user.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14) undefined
+2020-05-16T20:08:21.904Z : 	uncaughtException: Invalid schema configuration: `URL` is not a valid type at path `storePhoto`. See http://bit.ly/mongoose-schematypes for a list of valid schema types.
+TypeError: Invalid schema configuration: `URL` is not a valid type at path `storePhoto`. See http://bit.ly/mongoose-schematypes for a list of valid schema types.
+    at Schema.interpretAsType (C:\Users\91978\Desktop\Mentor\node_modules\mongoose\lib\schema.js:987:11)
+    at Schema.path (C:\Users\91978\Desktop\Mentor\node_modules\mongoose\lib\schema.js:679:27)
+    at Schema.add (C:\Users\91978\Desktop\Mentor\node_modules\mongoose\lib\schema.js:519:14)
+    at new Schema (C:\Users\91978\Desktop\Mentor\node_modules\mongoose\lib\schema.js:130:10)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\models\store.js:4:15)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\routes\user.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14) undefined
+2020-05-17T18:04:30.785Z : 	uncaughtException: verify is not defined
+ReferenceError: verify is not defined
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\routes\store.js:6:23)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\app.js:12:21)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47 undefined
+2020-05-17T18:05:02.019Z : 	uncaughtException: verify is not defined
+ReferenceError: verify is not defined
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\routes\store.js:6:23)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\app.js:12:21)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47 undefined
+2020-05-17T18:05:13.165Z : 	uncaughtException: verify is not defined
+ReferenceError: verify is not defined
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\routes\store.js:8:18)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\app.js:12:21)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47 undefined
+2020-05-17T18:05:31.777Z : 	uncaughtException: verify is not defined
+ReferenceError: verify is not defined
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\routes\store.js:8:18)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\app.js:12:21)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47 undefined
+2020-05-17T18:05:53.747Z : 	uncaughtException: storeRouter is not defined
+ReferenceError: storeRouter is not defined
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\app.js:25:19)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47 undefined
+2020-05-17T18:06:03.487Z : 	uncaughtException: verify is not defined
+ReferenceError: verify is not defined
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\routes\store.js:8:18)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\app.js:12:21)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47 undefined
+2020-05-17T18:06:30.212Z : 	uncaughtException: verify is not defined
+ReferenceError: verify is not defined
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\routes\store.js:8:18)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\app.js:12:21)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47 undefined
+2020-05-17T18:06:41.269Z : 	uncaughtException: Cannot read property 'method' of undefined
+TypeError: Cannot read property 'method' of undefined
+    at Function.handle (C:\Users\91978\Desktop\Mentor\node_modules\express\lib\router\index.js:139:34)
+    at router (C:\Users\91978\Desktop\Mentor\node_modules\express\lib\router\index.js:47:12)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\routes\register.js:11:18)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\app.js:11:24)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47 undefined
+2020-05-17T18:06:49.567Z : 	uncaughtException: verify is not defined
+ReferenceError: verify is not defined
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\routes\store.js:8:18)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\app.js:12:21)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47 undefined
+2020-05-17T18:07:08.063Z : 	uncaughtException: verify is not defined
+ReferenceError: verify is not defined
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\routes\store.js:8:18)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\app.js:12:21)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47 undefined
+2020-05-17T18:07:16.826Z : 	uncaughtException: verify is not defined
+ReferenceError: verify is not defined
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\routes\store.js:8:18)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\app.js:12:21)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47 undefined
+2020-05-17T18:50:59.899Z : 	uncaughtException: Unexpected token ';'
+C:\Users\91978\Desktop\Mentor\models\category.js:28
+        type: mongoose.Schema.Types.ObjectId;
+                                            ^
+
+SyntaxError: Unexpected token ';'
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\routes\category.js:4:18)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\app.js:13:24)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30) undefined
+2020-05-17T18:58:09.281Z : 	uncaughtException: await is only valid in async function
+C:\Users\91978\Desktop\Mentor\routes\category.js:9
+    const category = await Category.create({
+                     ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:1047:16)
+    at Module._compile (internal/modules/cjs/loader.js:1097:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Module.require (internal/modules/cjs/loader.js:1019:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\app.js:13:24)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47 undefined

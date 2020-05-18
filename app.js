@@ -9,6 +9,8 @@ dotenv.config();
 //Router Imports
 const userRouter = require('./routes/user');
 const registerRouter = require('./routes/register');
+const storeRouter = require('./routes/store');
+const categoryRouter = require('./routes/category');
 
 
 //Middleware
@@ -21,6 +23,9 @@ app.use(express.json()); //Body-Parser accepts only JSON
 //Routes 
 app.use('/user', userRouter);
 app.use('/register', registerRouter);
+app.use('/store', storeRouter);
+app.use('/category', categoryRouter);
+
 
 
 //Database Connection
