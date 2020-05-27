@@ -1,7 +1,6 @@
 Database https://cloud.mongodb.com/
 To see the database 
-username - ashishbansalmbm@gmail.com
-password - Ashish94145
+Register on the above website and drop your username to me
 
 # Added User Registration API
 # Added bcrypt for user password hash
