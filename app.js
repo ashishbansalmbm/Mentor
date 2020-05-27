@@ -11,6 +11,8 @@ const userRouter = require('./routes/user');
 const registerRouter = require('./routes/register');
 const storeRouter = require('./routes/store');
 const categoryRouter = require('./routes/category');
+const productRouter = require('./routes/product');
+
 
 
 //Middleware
@@ -25,6 +27,7 @@ app.use('/user', userRouter);
 app.use('/register', registerRouter);
 app.use('/store', storeRouter);
 app.use('/category', categoryRouter);
+app.use('/product', productRouter);
 
 
 

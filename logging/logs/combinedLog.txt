@@ -4,3 +4,13 @@
 2020-05-16T19:01:47.183Z [31m[1merror[22m[39m: 	Error in login user services Error: Illegal arguments: undefined, string
 2020-05-16T19:11:44.089Z : 	Error in login user services Error: Illegal arguments: undefined, string
 2020-05-17T17:42:15.604Z : 	Error in login user services TypeError: Cannot read property 'password' of null
+2020-05-23T20:05:22.718Z : 	Error in login user services TypeError: Cannot read property 'id' of undefined
+2020-05-23T20:07:06.236Z : 	Error in login user services TypeError: Cannot read property '_id' of undefined
+2020-05-23T20:09:54.584Z : 	Error in login User Controller ReferenceError: print is not defined
+2020-05-23T20:25:51.156Z : 	Error in login user services ReferenceError: token is not defined
+2020-05-23T20:27:02.495Z : 	Error in login user services ReferenceError: token is not defined
+2020-05-23T20:28:25.016Z : 	Error in login user services ReferenceError: token is not defined
+2020-05-23T20:29:44.488Z : 	Error in login user services TypeError: Cannot read property 'password' of null
+2020-05-23T20:30:27.690Z : 	Error in login user services TypeError: Cannot read property 'password' of null
+2020-05-23T20:32:25.535Z : 	Error in login user services TypeError: Cannot read property 'password' of null
+2020-05-23T20:33:45.058Z : 	Error in login user services TypeError: Cannot read property 'password' of null

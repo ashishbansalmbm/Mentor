@@ -7,7 +7,7 @@ const Store = require('../models/store');
 
 // router.get('/test', verify, (req, res) => {
 //     console.log(req.user._id);
-    
+
 // });
 
 
@@ -25,6 +25,9 @@ router.post('/', async (req, res) => {
     console.log(store);
 })
 
-router.post('/login', userController.loginUser);
+router.post('/login', userController.loginUser,
+    () =>
+        console.log('login requested')
+);
 
 module.exports = router;

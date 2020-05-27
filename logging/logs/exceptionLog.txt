@@ -1040,3 +1040,16 @@ SyntaxError: await is only valid in async function
     at Function.Module._load (internal/modules/cjs/loader.js:877:14)
     at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
     at internal/main/run_main_module.js:18:47 undefined
+2020-05-19T13:21:42.319Z : 	uncaughtException: Router.use() requires a middleware function but got a Object
+TypeError: Router.use() requires a middleware function but got a Object
+    at Function.use (C:\Users\91978\Desktop\Mentor\node_modules\express\lib\router\index.js:458:13)
+    at Function.<anonymous> (C:\Users\91978\Desktop\Mentor\node_modules\express\lib\application.js:220:21)
+    at Array.forEach (<anonymous>)
+    at Function.use (C:\Users\91978\Desktop\Mentor\node_modules\express\lib\application.js:217:7)
+    at Object.<anonymous> (C:\Users\91978\Desktop\Mentor\app.js:30:5)
+    at Module._compile (internal/modules/cjs/loader.js:1133:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)
+    at Module.load (internal/modules/cjs/loader.js:977:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:877:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)
+    at internal/main/run_main_module.js:18:47 undefined

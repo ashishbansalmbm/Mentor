@@ -1,5 +1,5 @@
 # Dependencies
 node_modules
 
-# Environment Files
-.env
+# Environment Files (Uncomment in Production)
+#.env

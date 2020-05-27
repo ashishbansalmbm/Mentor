@@ -19,7 +19,7 @@ router.post('/add', async (req, res) => {
 router.post('/add/sub-category', async (req, res) => {
 
     let categoryName = req.body.categoryName;
-    let categoryId = await Category.findOne({ name: categoryName });
+    let categoryId = await req.body.categoryId;
     if (categoryId) {
         let subcategory = await SubCategory.create({
             name: req.body.name,
@@ -37,7 +37,7 @@ router.post('/add/sub-category', async (req, res) => {
 router.post('/add/customization', async (req, res) => {
 
     let subCategoryName = req.body.subCategoryName;
-    let subCategoryId = await SubCategory.findOne({ name: subCategoryName });
+    let subCategoryId = await req.body.subCategoryId;
     if (subCategoryId) {
         let customization = await Customization.create({
             attribute: req.body.attribute,
